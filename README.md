@@ -53,7 +53,7 @@ git clone https://github.com/RayhanaAkterDev/react-complete-guide.git
 npm install
 
 # Start local dev server
-npm start
+npm run dev
 ```
 
 ---
