@@ -25,7 +25,7 @@ Each topic includes:
 
 | #   | Folder Name                                            | Focus Areas                                              |
 |-----|--------------------------------------------------------|----------------------------------------------------------|
-| 01  | [Getting Started](./01-getting-started/README.md)      | Create React App, folder structure, JSX basics           |
+| 01  | [Getting Started](./src/topics/01-getting-started/README.md)      | Create React App, folder structure, JSX basics           |
 | 02  | [Components](./02-components/README.md)                | Function components, props, children                     |
 | 03  | [State & Events](./03-state-and-events/README.md)      | useState, event handling, form state                     |
 | 04  | [Hooks](./04-hooks/README.md)                          | useEffect, useRef, useMemo, useCallback                  |

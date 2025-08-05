@@ -87,8 +87,7 @@ Here’s what you’ll see inside your project after setup:
 
 ## 📂 Demo Files
 
-- [`GettingStarted.jsx`](./GettingStarted.jsx) – A placeholder example for rendering  
-- [`README.md`](./README.md)
+- [`GettingStarted.jsx`](./GettingStarted.jsx)
 
 ---
 
