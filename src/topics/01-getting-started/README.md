@@ -101,4 +101,4 @@ The next topic will help you build actual components and UI blocks.
 
 ## 🔗 Navigation
 
-[🏠 Main README](../README.md)
+[🏠 Main README](../../../README.md)
