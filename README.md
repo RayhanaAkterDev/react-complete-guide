@@ -45,7 +45,7 @@ Each topic includes:
 
 ## 📝 Daily Learning Log
 
-- [📅 React Learning Points (Day-by-Day Log)](./src/topics/learning-points.md)
+- [📅 React Learning Points (Day-by-Day Log)](./src/learning-log/README.md)
 
 ---
 
