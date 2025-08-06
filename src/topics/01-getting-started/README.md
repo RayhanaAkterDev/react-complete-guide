@@ -85,6 +85,14 @@ Here’s what you’ll see inside your project after setup:
 
 ---
 
+## 🎨 Tailwind CSS Integration
+
+Tailwind CSS was added after the initial React setup.
+
+👉 [See Day 2 Log](../../learning-log/day-2.md/#5-installed-tailwind-css-v4x) for installation commands, config, and usage notes.
+
+---
+
 ## 📂 Demo Files
 
 - [`GettingStarted.jsx`](./GettingStarted.jsx)
